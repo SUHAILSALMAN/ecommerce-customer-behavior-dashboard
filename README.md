@@ -68,4 +68,4 @@ This analysis helps in:
 ---
 
 ## 📊 Dashboard Preview
-((https://public.tableau.com/app/profile/suhail.salman/viz/EcommerceCustomerBehaviourRevenueanalyticsDashboard_/Dashboard2?publish=yes))
+[View Tableau Public Dashboard](https://public.tableau.com/app/profile/suhail.salman/viz/EcommerceCustomerBehaviourRevenueanalyticsDashboard_/Dashboard2?publish=yes))
